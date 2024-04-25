@@ -1,0 +1,25 @@
+body{
+    background-color: darkorchid;
+}
+.heading{
+    text-align: center;
+    text-decoration: underline solid white;
+    color: white;
+}
+
+.content{
+    border: dotted white 3px;
+    padding: 50px;
+    margin-right: 90px;
+    margin-left: 80px;
+
+}
+.list{
+    align-items: center;
+    columns: 5;
+}
+.generate-btn{
+    border: solid double white;
+    color: darkorchid;
+    padding: 15px;
+}
